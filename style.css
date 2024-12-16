@@ -6,28 +6,28 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.hero {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.hero img {
   width: 100%;
 }
 
-.aaa .more-inf {
+.hero .more-info {
   font-family: Fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa { 
+  .hero { 
     text-align: center;
   }
 }
 
-.centered-main-page-element {
+.main-container__centered {
   display: block;
   width: 500px;
   margin: 0 auto 0;
