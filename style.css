@@ -27,7 +27,7 @@ body {
   }
 }
 
-.main-container__centered {
+.main-box__center {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -152,7 +152,7 @@ button.delete img:hover {
 
 /* Completed */
 
-ul#completed-tasks label {
+ul#done label {
   text-decoration: line-through
   color: #888;
 }
